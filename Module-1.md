@@ -1,4 +1,4 @@
-Project: “Student Introduction Page”
+## Project: “Student Introduction Page”
 
 Students will create a  webpage where:
 
@@ -8,7 +8,7 @@ Clicks a button
 
 Website displays: “Welcome, [Name]!”
 
-That’s it. Very simple.
+---
 
 ```<!-- This line tells the browser: "This is an HTML5 webpage" -->
 <!DOCTYPE html>
